@@ -1,2 +1,3 @@
 # smartContactCode
 # smartContactCode
+# smartContactManager
